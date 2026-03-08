@@ -10,3 +10,5 @@ https://github.com/user-attachments/assets/89265113-0785-42f1-b867-c38c886acbef
 
 
 ![vimlm](https://github.com/user-attachments/assets/67a97048-48df-40c1-9109-53c759e85d96)
+
+![cli](https://github.com/user-attachments/assets/d02f90d2-8b3f-478f-be76-5e4444b303cf)

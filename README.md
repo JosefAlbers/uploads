@@ -14,3 +14,5 @@ https://github.com/user-attachments/assets/89265113-0785-42f1-b867-c38c886acbef
 ![cli](https://github.com/user-attachments/assets/d02f90d2-8b3f-478f-be76-5e4444b303cf)
 
 ![mlxcode](https://github.com/user-attachments/assets/86004bd2-549f-44b8-9a05-a9b6d9f1c4a2)
+
+<img width="1024" height="1536" alt="mlxcodelogo" src="https://github.com/user-attachments/assets/df605c1d-f8e7-433c-9aaf-176c73e3d628" />
